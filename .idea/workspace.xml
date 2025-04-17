@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8dcb697-3863-4665-babc-fdae006ce7f9" name="Changes" comment="" />
+    <list default="true" id="f8dcb697-3863-4665-babc-fdae006ce7f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nombres.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nombres.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +20,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama__alterna&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Labtel/Desktop/clasegit&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Labtel/Desktop/clasegit",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="clasegit" />
@@ -61,10 +63,22 @@
       <updated>1744855425762</updated>
       <workItem from="1744855426838" duration="62000" />
       <workItem from="1744855498746" duration="276000" />
+      <workItem from="1744855781177" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
